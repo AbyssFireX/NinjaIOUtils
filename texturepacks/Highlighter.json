@@ -1,7 +1,7 @@
 {
-  "id": Highlighter,
-  "name": Helpful thing,
-  "author": Watchful,
-  "description": Highlights throwables, highlights bullets, changes aim thingie
+  "id": "Highlighter"
+  "name": "Helpful thing",
+  "author": "Watchful",
+  "description": "Highlights throwables, highlights bullets, changes aim thingie"
   "supportedVersion": 1
 }
